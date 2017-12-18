@@ -95,7 +95,7 @@ label {cursor: pointer;}
 
 /********** Search Bar **********/
 #header #search { position:absolute; top:35px; right:340px;}
-#header .button-search { background:url('../image/button-search.png') center center no-repeat; width:34px;height:34px ;position:absolute; right:0; cursor:pointer; float:right;}
+#header .button-search { background:url('http://demo.harnishdesign.net/html/polishop/image/button-search.png') center center no-repeat; width:34px;height:34px ;position:absolute; right:0; cursor:pointer; float:right;}
 #header #search input {background:#FFF; padding:0 10px; width:300px; height:32px; line-height:32px; font-size:13px; color:#333; outline:none;}
 
 
@@ -125,7 +125,7 @@ label {cursor: pointer;}
 #menu {background:#222; margin:15px 0px; height:40px; padding:0px 0px 0px 3px;}
 #menu > ul > li.home { margin:0 0 0 0px; }
 #menu > ul > li.home a { display:block; height:35px!important; line-height:35px!important; padding:5px 5px 0 5px!important; }
-#menu > ul > li.home a span { background:url(../image/home-icon.png) center center no-repeat; display:block; width:30px; height:30px; text-indent:-9999px;}
+#menu > ul > li.home a span { background:url(http://demo.harnishdesign.net/html/polishop/image/home-icon.png) center center no-repeat; display:block; width:30px; height:30px; text-indent:-9999px;}
 
 #menu ul { list-style: none; margin: 0; padding:0 0 0 2px;}
 #menu > ul > li { position: relative; float: left; z-index:1010; padding:0px; }
